@@ -6,7 +6,8 @@ import {
   FiSearch as Search,
   FiShoppingBag as Basket,
 } from "react-icons/fi";
-import Logo from "../../assets/logo.svg";
+// import Logo from "../../assets/logo.svg";
+import Logo from "../../assets/Logo.svg"
 import FlagRU from "../../assets/flagRU.svg";
 
 const navs = [
